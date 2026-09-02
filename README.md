@@ -1,8 +1,1 @@
-MY name is Ranjitha.I am studying BTech in computer science and Engineering.This repository contains my activities,technical skills,projects,and learning progress
-Learning Java
-## Interests
-- Web Development
-## GOAL
-- Become  a successful software engineer
-
-
+My name is Ranjitha.I am studying BTech in computer science and Engineering.This repository is created to showcase my technical skills,projects,learning progress,and achievements.
